@@ -52,7 +52,7 @@ Fired when a chat game starts.
 - `String question` - The question / prompt for the game.
 - `String answer` - The correct answer for the game.
 - `List<String> rewards` - The list of reward commands. 
-- 
+
 ### ChatGameEndEvent
 
 Fired when a chat game ends.
