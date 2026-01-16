@@ -63,7 +63,7 @@ Fired when a chat game ends.
 - `String answer` - The correct answer for the game.
 - `List<String> rewards` - The list of reward commands.
 - `EndReason reason` - The reason the game ended. (`TIMEOUT` or `COMMAND`).
-- 
+
 ### ChatGameWinEvent
 
 Fired when a player wins a chat game.
